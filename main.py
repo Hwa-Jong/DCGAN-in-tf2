@@ -3,8 +3,6 @@ import os
 
 from training.train_loop import train
 
-os.environ["CUDA_VISIBLE_DEVICES"] = '3'
-
 # ----------------------------------------------------------------------------
 def _str_to_bool(v):
     if isinstance(v, bool):
