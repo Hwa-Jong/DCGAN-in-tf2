@@ -11,7 +11,7 @@
 ----------------
 ## Generator architecture of DCGAN
 
-![]()
+![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/Generator(DCGAN).png)
 
 ----------------
 ## Usage
@@ -46,19 +46,19 @@
 ----------------
 ## Result 
 > ### 1 epoch
-> ![]()
+> ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000001epoc.png)
 
 > ### 10 epochs
-> ![]()
+> ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000010epoc.png)
 
 > ### 50 epochs
-> ![]()
+> ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000050epoc.png)
 
 > ### 80 epochs
-> ![]()
+> ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000080epoc.png)
 
 > ### 100 epochs
-> ![]()
+> ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000100epoc.png)
 
 
 ----------------
@@ -68,13 +68,13 @@
 ###### It was not found in tf1. I'm going to check what's wrong.
 
 > ### 85 epoch
-> ![]()
+> ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000085epoc.png)
 > ### 86 epoch
-> ![]()
+> ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000086epoc.png)
 > ### 87 epoch
-> ![]()
+> ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000087epoc.png)
 > ### 92 epoch
-> ![]()
+> ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000092epoc.png)
 > ### 93 epoch
-> ![]()
+> ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000093epoc.png)
 
