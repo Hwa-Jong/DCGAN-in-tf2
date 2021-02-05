@@ -24,7 +24,7 @@ def main():
     parser.add_argument('--load_path', help='model load path', required=True)
     parser.add_argument('--generate_num', help='The number of generated images', default=16, type=int)
     parser.add_argument('--result_dir', help='Root directory for run results', default='results')
-    parser.add_argument('--seed', help='Set seed', default=22222)
+    parser.add_argument('--seed', help='Set seed', default=22222, type=int)
 
     
     args = parser.parse_args()
