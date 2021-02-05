@@ -77,4 +77,5 @@
 > ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000092epoc.png)
 > ### 93 epoch
 > ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000093epoc.png)
-
+> ### 100 epochs
+> ![](https://github.com/Hwa-Jong/DCGAN-in-tf2/blob/main/imgs/fake%2000100epoc.png)
