@@ -27,7 +27,7 @@ def main():
     parser.add_argument('--batch_size', help='Batch size', default=128, type=int)
     parser.add_argument('--epochs', help='Epochs', default=100, type=int)
     parser.add_argument('--lr', help='Learning-rate', default=0.0002, type=float)
-    parser.add_argument('--save_term', help='Model save term', default=10)
+    parser.add_argument('--save_term', help='Model save term', default=10, type=int)
     
     args = parser.parse_args()
 
